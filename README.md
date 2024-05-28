@@ -56,8 +56,8 @@ For example,
     
 
 - For video
-<!-- ![](video/video_compare.mp4) -->
 <video src="video/video_compare.mp4" controls="controls" ></video>
+[./video](/video)
 
 
 
