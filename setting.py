@@ -15,7 +15,7 @@ class Setting():
         self.opt = opt
         opt.losses = opt.losses.split(" ")
 
-        self.model = CLUTNet(opt.model, dim=opt.dim)
+        self.model = DFE(opt.model, dim=opt.dim)
         self.model = self.model.to(device)
         if opt.name is None:
             opt.output_dir = join(opt.save_root, opt.dataset, opt.model)
