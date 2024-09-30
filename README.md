@@ -1,4 +1,4 @@
-# Core codes for [DUAL-HEAD FUSION NETWORK FOR IMAGE ENHANCEMENT](https://ieeexplore.ieee.org/abstract/document/10096665)
+# Core codes for [Dual-head Fusion Network for Image Enhancement (ICASSP2023)](https://ieeexplore.ieee.org/abstract/document/10096665)
 
  
 
